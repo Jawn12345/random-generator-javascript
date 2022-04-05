@@ -10,6 +10,7 @@ body, html {
 body {
     font-family: 'VT323', monospace;
     font-size: 1.6em;
+    background-color: black;
 }
 
 .grid-container {
